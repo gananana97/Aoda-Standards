@@ -9,4 +9,5 @@ The following web application's appearance and functionality:
 The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.
 
 Deployed website link:
+gananana97.github.io
 
