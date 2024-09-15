@@ -10,4 +10,5 @@ The Horiseon webpage includes a navigation bar, a header image, and cards with t
 
 Deployed website link:
 gananana97.github.io
+https://github.com/gananana97/Aoda-Standards
 
